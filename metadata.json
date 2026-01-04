@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Cinema Storyteller",
+  "description": "An advanced AI-powered application that generates long-form stories, creates expressive images, synthesizes voice-overs, and produces cinematic videos with synchronized subtitles, ready for YouTube.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
